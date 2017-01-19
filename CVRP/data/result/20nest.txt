@@ -1,0 +1,2169 @@
+Compiled file is: c:\users\administrator\dropbox\study\cvrp-vs2013\cvrp\utility.cpp.
+Its compilation began: Jul 17 2014 at: 16:05:13.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... A-n33-k5-661
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 687.00]
+ 6 customers, distance = 137.00, demand = 94 : 5 27 25 30 10 12
+ 8 customers, distance = 181.00, demand = 96 : 15 4 26 7 8 13 32 20
+ 5 customers, distance = 86.00, demand = 73 : 23 11 6 24 2
+ 6 customers, distance = 184.00, demand = 93 : 29 16 3 9 17 22
+ 7 customers, distance = 99.00, demand = 90 : 19 14 21 1 31 18 28
+
+Optimal value: ............... 661
+Obtained value: .............. 687.00
+Difference in objective: ..... 26.00
+Percentage similarities: ..... 96.22 %
+Iteration until best found: .. 164
+Iteration without improvement: 6
+Total iterations: ............ 170
+Time until best found: ....... 13.49
+Total time elapsed: .......... 14.09
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... A-n33-k5-661
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 680.00]
+ 7 customers, distance = 133.00, demand = 89 : 22 29 31 1 21 14 19
+ 6 customers, distance = 170.00, demand = 95 : 12 10 17 9 3 16
+ 6 customers, distance = 138.00, demand = 96 : 15 30 25 27 5 4
+ 6 customers, distance = 76.00, demand = 78 : 23 28 18 11 6 24
+ 7 customers, distance = 163.00, demand = 88 : 20 26 7 8 13 32 2
+
+Optimal value: ............... 661
+Obtained value: .............. 680.00
+Difference in objective: ..... 19.00
+Percentage similarities: ..... 97.21 %
+Iteration until best found: .. 110
+Iteration without improvement: 60
+Total iterations: ............ 170
+Time until best found: ....... 8.76
+Total time elapsed: .......... 13.41
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... A-n33-k5-661
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 682.00]
+ 8 customers, distance = 100.00, demand = 95 : 11 19 14 21 1 31 18 28
+ 5 customers, distance = 140.00, demand = 100 : 2 27 25 30 10
+ 4 customers, distance = 74.00, demand = 64 : 24 6 23 22
+ 9 customers, distance = 183.00, demand = 95 : 20 32 13 8 7 26 5 12 4
+ 6 customers, distance = 185.00, demand = 92 : 29 16 3 9 17 15
+
+Optimal value: ............... 661
+Obtained value: .............. 682.00
+Difference in objective: ..... 21.00
+Percentage similarities: ..... 96.92 %
+Iteration until best found: .. 164
+Iteration without improvement: 6
+Total iterations: ............ 170
+Time until best found: ....... 12.88
+Total time elapsed: .......... 13.20
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... A-n33-k5-661
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 708.00]
+ 6 customers, distance = 76.00, demand = 78 : 23 28 18 11 6 24
+ 6 customers, distance = 196.00, demand = 97 : 4 16 3 9 17 15
+ 7 customers, distance = 169.00, demand = 88 : 20 8 7 26 13 32 2
+ 6 customers, distance = 134.00, demand = 94 : 12 5 27 25 30 10
+ 7 customers, distance = 133.00, demand = 89 : 22 29 31 1 21 14 19
+
+Optimal value: ............... 661
+Obtained value: .............. 708.00
+Difference in objective: ..... 47.00
+Percentage similarities: ..... 93.36 %
+Iteration until best found: .. 160
+Iteration without improvement: 10
+Total iterations: ............ 170
+Time until best found: ....... 12.77
+Total time elapsed: .......... 13.41
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... A-n33-k5-661
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 681.00]
+ 8 customers, distance = 100.00, demand = 95 : 28 18 31 1 21 14 19 11
+ 6 customers, distance = 194.00, demand = 94 : 10 17 9 3 16 29
+ 4 customers, distance = 74.00, demand = 64 : 22 23 6 24
+ 7 customers, distance = 140.00, demand = 95 : 20 4 5 27 25 30 12
+ 7 customers, distance = 173.00, demand = 98 : 2 32 13 8 7 26 15
+
+Optimal value: ............... 661
+Obtained value: .............. 681.00
+Difference in objective: ..... 20.00
+Percentage similarities: ..... 97.06 %
+Iteration until best found: .. 135
+Iteration without improvement: 35
+Total iterations: ............ 170
+Time until best found: ....... 10.60
+Total time elapsed: .......... 13.03
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... A-n33-k5-661
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 676.00]
+ 6 customers, distance = 138.00, demand = 96 : 15 30 25 27 5 4
+ 5 customers, distance = 63.00, demand = 71 : 23 28 18 31 11
+ 6 customers, distance = 170.00, demand = 95 : 16 3 9 17 10 12
+ 7 customers, distance = 163.00, demand = 88 : 20 26 7 8 13 32 2
+ 8 customers, distance = 142.00, demand = 96 : 22 29 1 21 14 19 6 24
+
+Optimal value: ............... 661
+Obtained value: .............. 676.00
+Difference in objective: ..... 15.00
+Percentage similarities: ..... 97.78 %
+Iteration until best found: .. 86
+Iteration without improvement: 84
+Total iterations: ............ 170
+Time until best found: ....... 6.72
+Total time elapsed: .......... 12.80
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... A-n33-k5-661
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 696.00]
+ 6 customers, distance = 132.00, demand = 99 : 4 12 27 25 30 10
+ 8 customers, distance = 223.00, demand = 98 : 14 21 1 29 16 3 9 17
+ 6 customers, distance = 104.00, demand = 87 : 24 6 19 31 18 11
+ 4 customers, distance = 59.00, demand = 66 : 22 15 28 23
+ 8 customers, distance = 178.00, demand = 96 : 20 5 26 7 8 13 32 2
+
+Optimal value: ............... 661
+Obtained value: .............. 696.00
+Difference in objective: ..... 35.00
+Percentage similarities: ..... 94.97 %
+Iteration until best found: .. 161
+Iteration without improvement: 9
+Total iterations: ............ 170
+Time until best found: ....... 12.64
+Total time elapsed: .......... 13.25
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... A-n33-k5-661
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 673.00]
+ 6 customers, distance = 194.00, demand = 94 : 29 16 3 9 17 10
+ 6 customers, distance = 132.00, demand = 87 : 12 30 25 27 5 4
+ 5 customers, distance = 65.00, demand = 79 : 23 28 18 15 22
+ 8 customers, distance = 119.00, demand = 98 : 11 31 1 21 14 19 6 24
+ 7 customers, distance = 163.00, demand = 88 : 20 26 7 8 13 32 2
+
+Optimal value: ............... 661
+Obtained value: .............. 673.00
+Difference in objective: ..... 12.00
+Percentage similarities: ..... 98.22 %
+Iteration until best found: .. 169
+Iteration without improvement: 1
+Total iterations: ............ 170
+Time until best found: ....... 13.28
+Total time elapsed: .......... 13.28
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... A-n33-k5-661
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 684.00]
+ 4 customers, distance = 83.00, demand = 68 : 2 24 6 23
+ 6 customers, distance = 139.00, demand = 94 : 22 10 30 25 4 20
+ 8 customers, distance = 177.00, demand = 97 : 32 13 8 7 26 5 27 12
+ 8 customers, distance = 100.00, demand = 95 : 11 19 14 21 1 31 18 28
+ 6 customers, distance = 185.00, demand = 92 : 29 16 3 9 17 15
+
+Optimal value: ............... 661
+Obtained value: .............. 684.00
+Difference in objective: ..... 23.00
+Percentage similarities: ..... 96.64 %
+Iteration until best found: .. 117
+Iteration without improvement: 53
+Total iterations: ............ 170
+Time until best found: ....... 9.78
+Total time elapsed: .......... 13.61
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... A-n33-k5-661
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 678.00]
+ 6 customers, distance = 146.00, demand = 96 : 10 27 12 4 20 2
+ 4 customers, distance = 47.00, demand = 61 : 22 28 18 23
+ 6 customers, distance = 185.00, demand = 92 : 15 17 9 3 16 29
+ 8 customers, distance = 119.00, demand = 98 : 24 6 19 14 21 1 31 11
+ 8 customers, distance = 181.00, demand = 99 : 30 25 5 26 7 8 13 32
+
+Optimal value: ............... 661
+Obtained value: .............. 678.00
+Difference in objective: ..... 17.00
+Percentage similarities: ..... 97.49 %
+Iteration until best found: .. 120
+Iteration without improvement: 50
+Total iterations: ............ 170
+Time until best found: ....... 9.05
+Total time elapsed: .......... 12.46
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... A-n33-k5-661
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 677.00]
+ 8 customers, distance = 173.00, demand = 97 : 22 4 26 7 8 13 32 20
+ 5 customers, distance = 86.00, demand = 73 : 2 24 6 11 23
+ 7 customers, distance = 99.00, demand = 90 : 28 18 31 1 21 14 19
+ 6 customers, distance = 134.00, demand = 94 : 12 5 27 25 30 10
+ 6 customers, distance = 185.00, demand = 92 : 15 17 9 3 16 29
+
+Optimal value: ............... 661
+Obtained value: .............. 677.00
+Difference in objective: ..... 16.00
+Percentage similarities: ..... 97.64 %
+Iteration until best found: .. 157
+Iteration without improvement: 13
+Total iterations: ............ 170
+Time until best found: ....... 12.34
+Total time elapsed: .......... 13.34
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Statistical report after ..... 11 run
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Initial fitness:           Best fitness:              Time Elapsed:
+1586.00                    687.00                     14.09
+1731.00                    680.00                     13.41
+1647.00                    682.00                     13.20
+1661.00                    708.00                     13.41
+1746.00                    681.00                     13.03
+1719.00                    676.00                     12.80
+1738.00                    696.00                     13.25
+1844.00                    673.00                     13.28
+1729.00                    684.00                     13.61
+1725.00                    678.00                     12.46
+1797.00                    677.00                     13.34
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... B-n45-k5-751
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 875.00]
+11 customers, distance = 290.00, demand = 97 : 41 22 6 12 40 42 28 44 14 18 31
+ 8 customers, distance = 126.00, demand = 100 : 23 36 1 32 15 2 13 9
+ 9 customers, distance = 250.00, demand = 94 : 3 38 20 35 24 27 34 7 37
+ 9 customers, distance = 104.00, demand = 98 : 43 4 16 29 11 33 19 26 25
+ 7 customers, distance = 105.00, demand = 97 : 5 21 8 10 17 30 39
+
+Optimal value: ............... 751
+Obtained value: .............. 875.00
+Difference in objective: ..... 124.00
+Percentage similarities: ..... 85.83 %
+Iteration until best found: .. 165
+Iteration without improvement: 5
+Total iterations: ............ 170
+Time until best found: ....... 26.92
+Total time elapsed: .......... 27.57
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... B-n45-k5-751
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 789.00]
+10 customers, distance = 107.00, demand = 108 : 22 21 19 33 26 25 11 29 16 4
+ 6 customers, distance = 134.00, demand = 90 : 28 13 2 32 15 37
+ 8 customers, distance = 151.00, demand = 91 : 9 44 14 34 7 1 23 30
+11 customers, distance = 254.00, demand = 99 : 36 18 27 24 3 31 38 35 20 8 43
+ 9 customers, distance = 143.00, demand = 98 : 42 40 12 6 5 41 10 17 39
+
+Optimal value: ............... 751
+Obtained value: .............. 789.00
+Difference in objective: ..... 38.00
+Percentage similarities: ..... 95.18 %
+Iteration until best found: .. 165
+Iteration without improvement: 5
+Total iterations: ............ 170
+Time until best found: ....... 26.16
+Total time elapsed: .......... 26.97
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... B-n45-k5-751
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 932.00]
+ 6 customers, distance = 112.00, demand = 87 : 9 13 37 1 23 39
+10 customers, distance = 262.00, demand = 100 : 36 18 44 27 24 31 26 33 19 11
+ 8 customers, distance = 114.00, demand = 100 : 5 41 8 21 4 10 17 30
+ 9 customers, distance = 241.00, demand = 100 : 14 34 7 32 15 2 28 42 40
+11 customers, distance = 203.00, demand = 99 : 3 38 35 20 25 29 16 12 6 22 43
+
+Optimal value: ............... 751
+Obtained value: .............. 932.00
+Difference in objective: ..... 181.00
+Percentage similarities: ..... 80.58 %
+Iteration until best found: .. 168
+Iteration without improvement: 2
+Total iterations: ............ 170
+Time until best found: ....... 25.25
+Total time elapsed: .......... 25.39
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... B-n45-k5-751
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 827.00]
+ 9 customers, distance = 249.00, demand = 99 : 9 7 14 24 3 31 38 35 20
+10 customers, distance = 178.00, demand = 94 : 5 41 22 43 17 36 44 34 27 18
+ 6 customers, distance = 112.00, demand = 91 : 39 23 30 10 16 4
+ 7 customers, distance = 134.00, demand = 91 : 28 13 2 15 32 37 1
+12 customers, distance = 154.00, demand = 111 : 8 29 11 25 26 19 33 21 12 6 40 42
+
+Optimal value: ............... 751
+Obtained value: .............. 827.00
+Difference in objective: ..... 76.00
+Percentage similarities: ..... 90.81 %
+Iteration until best found: .. 158
+Iteration without improvement: 12
+Total iterations: ............ 170
+Time until best found: ....... 24.80
+Total time elapsed: .......... 26.52
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... B-n45-k5-751
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 781.00]
+ 8 customers, distance = 131.00, demand = 98 : 43 22 21 33 19 16 29 10
+ 9 customers, distance = 212.00, demand = 90 : 30 23 36 24 3 31 38 35 20
+ 7 customers, distance = 130.00, demand = 99 : 39 1 9 15 2 13 28
+11 customers, distance = 151.00, demand = 100 : 5 41 11 26 25 4 8 12 6 40 42
+ 9 customers, distance = 157.00, demand = 99 : 17 18 44 14 27 34 7 32 37
+
+Optimal value: ............... 751
+Obtained value: .............. 781.00
+Difference in objective: ..... 30.00
+Percentage similarities: ..... 96.16 %
+Iteration until best found: .. 115
+Iteration without improvement: 55
+Total iterations: ............ 170
+Time until best found: ....... 18.93
+Total time elapsed: .......... 26.81
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... B-n45-k5-751
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 870.00]
+11 customers, distance = 258.00, demand = 98 : 10 3 31 38 35 20 12 6 40 42 28
+ 9 customers, distance = 244.00, demand = 100 : 23 36 18 27 24 25 29 16 43
+ 7 customers, distance = 133.00, demand = 117 : 37 2 15 32 13 9 30
+ 7 customers, distance = 125.00, demand = 72 : 1 7 34 14 44 17 39
+10 customers, distance = 110.00, demand = 99 : 41 8 19 33 26 11 4 21 22 5
+
+Optimal value: ............... 751
+Obtained value: .............. 870.00
+Difference in objective: ..... 119.00
+Percentage similarities: ..... 86.32 %
+Iteration until best found: .. 153
+Iteration without improvement: 17
+Total iterations: ............ 170
+Time until best found: ....... 23.73
+Total time elapsed: .......... 26.18
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... B-n45-k5-751
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 827.00]
+10 customers, distance = 107.00, demand = 100 : 16 11 25 26 19 33 29 4 8 22
+ 8 customers, distance = 117.00, demand = 99 : 15 32 37 1 23 30 17 39
+ 9 customers, distance = 216.00, demand = 100 : 13 2 28 42 40 21 12 6 5
+ 8 customers, distance = 150.00, demand = 97 : 9 7 34 27 14 44 18 36
+ 9 customers, distance = 237.00, demand = 90 : 10 24 3 31 38 35 20 43 41
+
+Optimal value: ............... 751
+Obtained value: .............. 827.00
+Difference in objective: ..... 76.00
+Percentage similarities: ..... 90.81 %
+Iteration until best found: .. 159
+Iteration without improvement: 11
+Total iterations: ............ 170
+Time until best found: ....... 25.18
+Total time elapsed: .......... 26.62
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... B-n45-k5-751
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 967.00]
+ 9 customers, distance = 185.00, demand = 98 : 28 1 18 14 27 34 7 37 9
+10 customers, distance = 269.00, demand = 90 : 41 12 11 19 33 26 24 44 36 23
+ 7 customers, distance = 113.00, demand = 100 : 39 22 21 4 8 6 5
+ 9 customers, distance = 229.00, demand = 97 : 20 35 38 31 3 32 15 2 13
+ 9 customers, distance = 171.00, demand = 101 : 30 17 10 25 29 16 43 40 42
+
+Optimal value: ............... 751
+Obtained value: .............. 967.00
+Difference in objective: ..... 216.00
+Percentage similarities: ..... 77.66 %
+Iteration until best found: .. 155
+Iteration without improvement: 15
+Total iterations: ............ 170
+Time until best found: ....... 23.71
+Total time elapsed: .......... 25.73
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... B-n45-k5-751
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 883.00]
+10 customers, distance = 215.00, demand = 97 : 23 36 44 14 18 41 6 12 40 42
+ 7 customers, distance = 135.00, demand = 100 : 1 9 37 32 15 2 28
+ 8 customers, distance = 91.00, demand = 100 : 43 4 29 16 21 8 22 5
+ 7 customers, distance = 238.00, demand = 89 : 13 7 34 27 24 3 10
+12 customers, distance = 204.00, demand = 100 : 11 33 19 26 25 20 35 38 31 17 30 39
+
+Optimal value: ............... 751
+Obtained value: .............. 883.00
+Difference in objective: ..... 132.00
+Percentage similarities: ..... 85.05 %
+Iteration until best found: .. 164
+Iteration without improvement: 6
+Total iterations: ............ 170
+Time until best found: ....... 25.43
+Total time elapsed: .......... 26.14
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... B-n45-k5-751
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 937.00]
+12 customers, distance = 308.00, demand = 100 : 1 24 3 31 38 35 20 26 19 33 40 42
+ 6 customers, distance = 161.00, demand = 99 : 37 32 15 2 28 5
+ 9 customers, distance = 221.00, demand = 100 : 41 8 4 36 44 34 7 13 9
+ 6 customers, distance = 120.00, demand = 90 : 10 14 27 18 23 39
+11 customers, distance = 127.00, demand = 97 : 43 22 6 12 21 16 29 11 25 17 30
+
+Optimal value: ............... 751
+Obtained value: .............. 937.00
+Difference in objective: ..... 186.00
+Percentage similarities: ..... 80.15 %
+Iteration until best found: .. 164
+Iteration without improvement: 6
+Total iterations: ............ 170
+Time until best found: ....... 25.57
+Total time elapsed: .......... 26.26
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... B-n45-k5-751
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[5 routes, distance = 872.00]
+ 7 customers, distance = 123.00, demand = 98 : 30 1 37 32 15 2 13
+ 6 customers, distance = 239.00, demand = 94 : 10 36 27 44 24 43
+11 customers, distance = 130.00, demand = 100 : 41 16 29 19 33 26 11 25 17 23 39
+11 customers, distance = 247.00, demand = 97 : 28 9 14 34 7 18 3 31 38 35 20
+ 9 customers, distance = 133.00, demand = 97 : 42 40 6 12 21 4 8 22 5
+
+Optimal value: ............... 751
+Obtained value: .............. 872.00
+Difference in objective: ..... 121.00
+Percentage similarities: ..... 86.12 %
+Iteration until best found: .. 140
+Iteration without improvement: 30
+Total iterations: ............ 170
+Time until best found: ....... 20.24
+Total time elapsed: .......... 24.50
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Statistical report after ..... 11 run
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Initial fitness:           Best fitness:              Time Elapsed:
+2640.00                    875.00                     27.57
+2448.00                    789.00                     26.97
+2499.00                    932.00                     25.39
+2304.00                    827.00                     26.52
+2386.00                    781.00                     26.81
+2489.00                    870.00                     26.17
+2475.00                    827.00                     26.62
+2405.00                    967.00                     25.73
+2377.00                    883.00                     26.14
+2393.00                    937.00                     26.26
+2232.00                    872.00                     24.50
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n30-k3-534
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[3 routes, distance = 533.00]
+13 customers, distance = 141.00, demand = 3625 : 18 10 12 11 15 16 13 7 17 9 8 14 23
+ 9 customers, distance = 197.00, demand = 4175 : 19 26 27 25 24 6 3 20 21
+ 7 customers, distance = 195.00, demand = 4950 : 22 2 5 4 1 29 28
+
+Optimal value: ............... 534
+Obtained value: .............. 533.00
+Difference in objective: ..... -1.00
+Percentage similarities: ..... 100.19 %
+Iteration until best found: .. 140
+Iteration without improvement: 30
+Total iterations: ............ 170
+Time until best found: ....... 10.44
+Total time elapsed: .......... 12.58
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n30-k3-534
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[3 routes, distance = 552.00]
+ 9 customers, distance = 120.00, demand = 3975 : 21 14 8 9 17 12 11 10 23
+13 customers, distance = 295.00, demand = 4450 : 18 15 13 7 16 6 1 24 25 29 27 28 26
+ 7 customers, distance = 137.00, demand = 4325 : 19 20 3 4 5 2 22
+
+Optimal value: ............... 534
+Obtained value: .............. 552.00
+Difference in objective: ..... 18.00
+Percentage similarities: ..... 96.74 %
+Iteration until best found: .. 32
+Iteration without improvement: 138
+Total iterations: ............ 170
+Time until best found: ....... 2.67
+Total time elapsed: .......... 11.51
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n30-k3-534
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[3 routes, distance = 545.00]
+ 5 customers, distance = 188.00, demand = 4375 : 22 2 12 11 10
+13 customers, distance = 209.00, demand = 4425 : 20 3 4 5 1 6 24 25 29 27 28 26 19
+11 customers, distance = 148.00, demand = 3950 : 18 23 15 16 13 7 17 9 8 14 21
+
+Optimal value: ............... 534
+Obtained value: .............. 545.00
+Difference in objective: ..... 11.00
+Percentage similarities: ..... 97.98 %
+Iteration until best found: .. 168
+Iteration without improvement: 2
+Total iterations: ............ 170
+Time until best found: ....... 11.52
+Total time elapsed: .......... 11.58
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n30-k3-534
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[3 routes, distance = 551.00]
+15 customers, distance = 297.00, demand = 4425 : 18 12 9 17 7 13 16 26 28 27 29 25 24 1 6
+ 7 customers, distance = 137.00, demand = 4325 : 22 2 5 4 3 20 19
+ 7 customers, distance = 117.00, demand = 4000 : 23 10 15 11 8 14 21
+
+Optimal value: ............... 534
+Obtained value: .............. 551.00
+Difference in objective: ..... 17.00
+Percentage similarities: ..... 96.91 %
+Iteration until best found: .. 154
+Iteration without improvement: 16
+Total iterations: ............ 170
+Time until best found: ....... 10.83
+Total time elapsed: .......... 11.74
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n30-k3-534
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[3 routes, distance = 545.00]
+ 6 customers, distance = 134.00, demand = 3925 : 20 3 4 5 2 22
+11 customers, distance = 256.00, demand = 4400 : 18 15 19 6 1 24 25 29 27 28 26
+12 customers, distance = 155.00, demand = 4425 : 21 14 8 9 17 7 13 16 11 12 10 23
+
+Optimal value: ............... 534
+Obtained value: .............. 545.00
+Difference in objective: ..... 11.00
+Percentage similarities: ..... 97.98 %
+Iteration until best found: .. 163
+Iteration without improvement: 7
+Total iterations: ............ 170
+Time until best found: ....... 11.92
+Total time elapsed: .......... 12.30
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n30-k3-534
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[3 routes, distance = 525.00]
+13 customers, distance = 225.00, demand = 7400 : 20 2 4 5 1 6 24 25 29 27 28 26 19
+10 customers, distance = 126.00, demand = 2725 : 18 10 11 12 9 17 7 13 16 15
+ 6 customers, distance = 174.00, demand = 2625 : 3 22 21 14 8 23
+
+Optimal value: ............... 534
+Obtained value: .............. 525.00
+Difference in objective: ..... -9.00
+Percentage similarities: ..... 101.71 %
+Iteration until best found: .. 136
+Iteration without improvement: 34
+Total iterations: ............ 170
+Time until best found: ....... 9.86
+Total time elapsed: .......... 12.19
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n30-k3-534
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[3 routes, distance = 553.00]
+13 customers, distance = 209.00, demand = 4425 : 20 3 4 5 1 6 24 25 29 27 28 26 19
+11 customers, distance = 151.00, demand = 4225 : 18 15 16 13 7 17 9 12 11 10 21
+ 5 customers, distance = 193.00, demand = 4100 : 22 2 14 8 23
+
+Optimal value: ............... 534
+Obtained value: .............. 553.00
+Difference in objective: ..... 19.00
+Percentage similarities: ..... 96.56 %
+Iteration until best found: .. 90
+Iteration without improvement: 80
+Total iterations: ............ 170
+Time until best found: ....... 7.20
+Total time elapsed: .......... 12.40
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n30-k3-534
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[3 routes, distance = 570.00]
+11 customers, distance = 212.00, demand = 3950 : 10 12 23 18 20 3 6 24 25 29 19
+10 customers, distance = 154.00, demand = 4450 : 21 14 8 9 17 7 13 16 15 11
+ 8 customers, distance = 204.00, demand = 4350 : 22 2 5 4 1 27 28 26
+
+Optimal value: ............... 534
+Obtained value: .............. 570.00
+Difference in objective: ..... 36.00
+Percentage similarities: ..... 93.68 %
+Iteration until best found: .. 166
+Iteration without improvement: 4
+Total iterations: ............ 170
+Time until best found: ....... 11.59
+Total time elapsed: .......... 11.77
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n30-k3-534
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[3 routes, distance = 503.00]
+13 customers, distance = 211.00, demand = 4125 : 20 22 3 4 5 1 6 24 25 29 27 28 26
+12 customers, distance = 138.00, demand = 3325 : 15 16 13 7 17 9 14 8 12 11 10 18
+ 4 customers, distance = 154.00, demand = 5300 : 19 2 21 23
+
+Optimal value: ............... 534
+Obtained value: .............. 503.00
+Difference in objective: ..... -31.00
+Percentage similarities: ..... 106.16 %
+Iteration until best found: .. 138
+Iteration without improvement: 32
+Total iterations: ............ 170
+Time until best found: ....... 10.52
+Total time elapsed: .......... 12.64
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n30-k3-534
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[3 routes, distance = 558.00]
+10 customers, distance = 186.00, demand = 4000 : 20 6 1 24 25 29 27 28 26 19
+ 9 customers, distance = 150.00, demand = 3875 : 11 12 13 7 17 9 8 14 21
+10 customers, distance = 222.00, demand = 4875 : 22 2 5 4 3 16 15 10 23 18
+
+Optimal value: ............... 534
+Obtained value: .............. 558.00
+Difference in objective: ..... 24.00
+Percentage similarities: ..... 95.70 %
+Iteration until best found: .. 123
+Iteration without improvement: 47
+Total iterations: ............ 170
+Time until best found: ....... 9.06
+Total time elapsed: .......... 12.04
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n30-k3-534
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[3 routes, distance = 590.00]
+ 9 customers, distance = 140.00, demand = 4125 : 18 10 11 12 8 14 21 20 19
+14 customers, distance = 287.00, demand = 4325 : 23 9 17 7 13 16 15 26 28 27 25 29 6 3
+ 6 customers, distance = 163.00, demand = 4300 : 24 1 4 5 2 22
+
+Optimal value: ............... 534
+Obtained value: .............. 590.00
+Difference in objective: ..... 56.00
+Percentage similarities: ..... 90.51 %
+Iteration until best found: .. 146
+Iteration without improvement: 24
+Total iterations: ............ 170
+Time until best found: ....... 10.84
+Total time elapsed: .......... 12.41
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Statistical report after ..... 11 run
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Initial fitness:           Best fitness:              Time Elapsed:
+1086.00                    533.00                     12.58
+1181.00                    552.00                     11.51
+1020.00                    545.00                     11.58
+1206.00                    551.00                     11.74
+1101.00                    545.00                     12.30
+1167.00                    525.00                     12.19
+1125.00                    553.00                     12.40
+1103.00                    570.00                     11.77
+1015.00                    503.00                     12.64
+1131.00                    558.00                     12.04
+1193.00                    590.00                     12.41
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n76-k7-682
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[7 routes, distance = 701.00]
+10 customers, distance = 109.00, demand = 209 : 26 58 10 31 55 25 9 39 40 17
+13 customers, distance = 123.00, demand = 215 : 62 73 1 22 64 42 43 41 56 23 63 33 6
+15 customers, distance = 117.00, demand = 219 : 4 45 29 5 36 69 71 60 70 20 37 15 57 13 27
+ 9 customers, distance = 91.00, demand = 154 : 51 3 44 32 50 18 24 49 16
+ 9 customers, distance = 71.00, demand = 167 : 67 46 8 7 35 19 54 52 34
+ 9 customers, distance = 109.00, demand = 201 : 12 72 38 65 11 66 59 14 53
+10 customers, distance = 81.00, demand = 199 : 75 68 2 74 28 61 21 47 48 30
+
+Optimal value: ............... 682
+Obtained value: .............. 701.00
+Difference in objective: ..... 19.00
+Percentage similarities: ..... 97.29 %
+Iteration until best found: .. 144
+Iteration without improvement: 26
+Total iterations: ............ 170
+Time until best found: ....... 72.04
+Total time elapsed: .......... 83.80
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n76-k7-682
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[7 routes, distance = 727.00]
+13 customers, distance = 125.00, demand = 201 : 68 2 21 61 69 71 60 70 20 37 36 47 48
+10 customers, distance = 90.00, demand = 211 : 12 72 58 10 38 65 66 11 53 26
+11 customers, distance = 108.00, demand = 185 : 17 44 24 49 23 56 41 43 1 73 33
+11 customers, distance = 128.00, demand = 210 : 40 9 39 31 25 55 18 50 32 3 51
+ 9 customers, distance = 71.00, demand = 155 : 4 45 29 5 15 57 13 27 52
+11 customers, distance = 108.00, demand = 199 : 75 30 74 28 62 22 64 42 63 16 6
+10 customers, distance = 97.00, demand = 203 : 67 34 46 8 19 54 59 14 35 7
+
+Optimal value: ............... 682
+Obtained value: .............. 727.00
+Difference in objective: ..... 45.00
+Percentage similarities: ..... 93.81 %
+Iteration until best found: .. 145
+Iteration without improvement: 25
+Total iterations: ............ 170
+Time until best found: ....... 70.48
+Total time elapsed: .......... 81.76
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n76-k7-682
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[7 routes, distance = 733.00]
+11 customers, distance = 103.00, demand = 210 : 17 3 44 32 50 18 55 25 9 39 40
+11 customers, distance = 101.00, demand = 218 : 4 52 27 5 47 21 28 22 1 73 6
+ 9 customers, distance = 105.00, demand = 209 : 35 14 59 66 65 38 11 53 7
+16 customers, distance = 150.00, demand = 217 : 75 62 61 69 36 71 60 70 20 37 15 57 13 54 19 8
+10 customers, distance = 68.00, demand = 198 : 67 46 34 45 29 48 30 74 2 68
+12 customers, distance = 130.00, demand = 205 : 51 16 49 24 23 56 41 64 42 43 63 33
+ 6 customers, distance = 76.00, demand = 107 : 12 72 31 10 58 26
+
+Optimal value: ............... 682
+Obtained value: .............. 733.00
+Difference in objective: ..... 51.00
+Percentage similarities: ..... 93.04 %
+Iteration until best found: .. 159
+Iteration without improvement: 11
+Total iterations: ............ 170
+Time until best found: ....... 75.66
+Total time elapsed: .......... 81.11
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n76-k7-682
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[7 routes, distance = 804.00]
+11 customers, distance = 80.00, demand = 186 : 75 2 62 73 1 33 63 16 51 6 68
+12 customers, distance = 102.00, demand = 215 : 4 45 29 48 21 47 36 37 5 15 13 27
+12 customers, distance = 146.00, demand = 242 : 7 11 66 65 58 32 50 18 24 49 3 44
+11 customers, distance = 128.00, demand = 192 : 30 74 28 61 22 64 42 43 41 56 23
+ 7 customers, distance = 57.00, demand = 133 : 17 40 9 39 72 12 26
+ 8 customers, distance = 87.00, demand = 176 : 34 52 46 8 59 14 35 67
+14 customers, distance = 204.00, demand = 220 : 25 55 31 10 38 53 19 54 57 20 70 60 71 69
+
+Optimal value: ............... 682
+Obtained value: .............. 804.00
+Difference in objective: ..... 122.00
+Percentage similarities: ..... 84.83 %
+Iteration until best found: .. 149
+Iteration without improvement: 21
+Total iterations: ............ 170
+Time until best found: ....... 73.25
+Total time elapsed: .......... 82.17
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n76-k7-682
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[7 routes, distance = 765.00]
+12 customers, distance = 142.00, demand = 213 : 6 33 1 56 23 49 24 18 50 55 25 9
+12 customers, distance = 96.00, demand = 205 : 51 16 63 73 62 2 74 45 27 52 46 34
+ 5 customers, distance = 51.00, demand = 109 : 40 32 44 3 17
+16 customers, distance = 142.00, demand = 207 : 68 29 5 36 69 71 60 70 20 37 15 57 13 54 19 7
+11 customers, distance = 126.00, demand = 217 : 43 41 42 64 22 28 61 21 47 48 30
+ 9 customers, distance = 107.00, demand = 210 : 8 35 53 14 59 11 66 65 38
+10 customers, distance = 101.00, demand = 203 : 67 26 58 10 31 39 72 12 75 4
+
+Optimal value: ............... 682
+Obtained value: .............. 765.00
+Difference in objective: ..... 83.00
+Percentage similarities: ..... 89.15 %
+Iteration until best found: .. 157
+Iteration without improvement: 13
+Total iterations: ............ 170
+Time until best found: ....... 75.20
+Total time elapsed: .......... 81.00
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n76-k7-682
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[7 routes, distance = 717.00]
+12 customers, distance = 136.00, demand = 187 : 51 16 49 24 18 50 25 55 31 10 72 12
+14 customers, distance = 131.00, demand = 213 : 75 68 2 28 62 22 61 69 36 71 60 70 20 37
+11 customers, distance = 108.00, demand = 185 : 6 33 73 1 43 42 64 41 56 23 63
+ 9 customers, distance = 102.00, demand = 216 : 26 58 38 65 11 66 59 14 7
+12 customers, distance = 99.00, demand = 195 : 34 52 27 15 57 13 54 19 53 35 8 46
+10 customers, distance = 78.00, demand = 214 : 30 74 21 47 5 48 29 45 4 67
+ 7 customers, distance = 63.00, demand = 154 : 40 39 9 32 44 3 17
+
+Optimal value: ............... 682
+Obtained value: .............. 717.00
+Difference in objective: ..... 35.00
+Percentage similarities: ..... 95.12 %
+Iteration until best found: .. 164
+Iteration without improvement: 6
+Total iterations: ............ 170
+Time until best found: ....... 82.29
+Total time elapsed: .......... 84.81
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n76-k7-682
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[7 routes, distance = 751.00]
+14 customers, distance = 115.00, demand = 207 : 29 5 36 69 71 60 70 20 37 15 57 52 34 67
+ 9 customers, distance = 86.00, demand = 178 : 68 2 62 22 61 21 47 48 4
+ 9 customers, distance = 102.00, demand = 216 : 7 14 59 11 66 65 38 58 26
+12 customers, distance = 129.00, demand = 209 : 46 8 35 53 10 31 55 25 9 39 72 12
+12 customers, distance = 110.00, demand = 214 : 75 6 33 73 28 74 30 45 27 13 54 19
+13 customers, distance = 156.00, demand = 219 : 50 18 24 49 63 1 43 42 64 41 56 23 16
+ 6 customers, distance = 53.00, demand = 121 : 17 40 32 44 3 51
+
+Optimal value: ............... 682
+Obtained value: .............. 751.00
+Difference in objective: ..... 69.00
+Percentage similarities: ..... 90.81 %
+Iteration until best found: .. 154
+Iteration without improvement: 16
+Total iterations: ............ 170
+Time until best found: ....... 75.17
+Total time elapsed: .......... 82.61
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n76-k7-682
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[7 routes, distance = 735.00]
+11 customers, distance = 110.00, demand = 216 : 45 29 27 13 54 19 59 14 53 7 67
+11 customers, distance = 104.00, demand = 215 : 17 12 9 39 72 38 65 66 11 35 8
+ 4 customers, distance = 33.00, demand = 95 : 4 52 46 34
+11 customers, distance = 87.00, demand = 219 : 75 68 2 74 28 21 47 37 5 48 30
+10 customers, distance = 117.00, demand = 207 : 26 58 10 31 25 55 18 50 32 40
+15 customers, distance = 165.00, demand = 208 : 62 43 41 42 64 22 61 69 36 71 60 70 20 15 57
+13 customers, distance = 119.00, demand = 204 : 6 33 73 1 63 23 56 49 24 44 3 16 51
+
+Optimal value: ............... 682
+Obtained value: .............. 735.00
+Difference in objective: ..... 53.00
+Percentage similarities: ..... 92.79 %
+Iteration until best found: .. 148
+Iteration without improvement: 22
+Total iterations: ............ 170
+Time until best found: ....... 72.40
+Total time elapsed: .......... 82.45
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n76-k7-682
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[7 routes, distance = 754.00]
+ 8 customers, distance = 82.00, demand = 168 : 67 46 8 19 59 14 35 7
+12 customers, distance = 88.00, demand = 214 : 75 4 30 48 74 62 73 33 63 16 51 6
+14 customers, distance = 152.00, demand = 204 : 45 29 5 37 20 70 60 71 36 69 61 64 42 22
+ 9 customers, distance = 108.00, demand = 219 : 53 11 66 65 38 31 10 58 26
+12 customers, distance = 105.00, demand = 217 : 34 52 27 13 54 57 15 47 21 28 2 68
+14 customers, distance = 159.00, demand = 219 : 17 25 55 18 50 44 3 24 49 23 56 41 43 1
+ 6 customers, distance = 60.00, demand = 123 : 40 32 9 39 72 12
+
+Optimal value: ............... 682
+Obtained value: .............. 754.00
+Difference in objective: ..... 72.00
+Percentage similarities: ..... 90.45 %
+Iteration until best found: .. 168
+Iteration without improvement: 2
+Total iterations: ............ 170
+Time until best found: ....... 80.07
+Total time elapsed: .......... 80.46
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n76-k7-682
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[7 routes, distance = 774.00]
+12 customers, distance = 141.00, demand = 210 : 73 43 42 64 41 56 23 49 24 18 50 40
+10 customers, distance = 104.00, demand = 200 : 67 46 34 30 74 28 61 22 1 62
+ 8 customers, distance = 60.00, demand = 144 : 75 68 2 33 63 16 51 6
+10 customers, distance = 130.00, demand = 215 : 7 11 66 59 14 19 57 15 5 29
+12 customers, distance = 111.00, demand = 201 : 4 45 48 47 36 37 20 70 60 71 69 21
+11 customers, distance = 118.00, demand = 184 : 17 3 44 32 9 25 55 31 39 72 12
+12 customers, distance = 110.00, demand = 210 : 26 58 10 38 65 53 35 8 54 13 27 52
+
+Optimal value: ............... 682
+Obtained value: .............. 774.00
+Difference in objective: ..... 92.00
+Percentage similarities: ..... 88.11 %
+Iteration until best found: .. 168
+Iteration without improvement: 2
+Total iterations: ............ 170
+Time until best found: ....... 80.99
+Total time elapsed: .......... 81.56
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... E-n76-k7-682
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[7 routes, distance = 734.00]
+ 8 customers, distance = 77.00, demand = 144 : 17 40 44 3 24 49 16 51
+16 customers, distance = 162.00, demand = 213 : 27 57 15 20 70 60 71 36 69 61 22 64 42 41 43 73
+11 customers, distance = 107.00, demand = 204 : 46 8 7 35 14 59 19 54 13 52 34
+10 customers, distance = 93.00, demand = 190 : 6 33 63 23 56 1 62 28 2 68
+10 customers, distance = 111.00, demand = 220 : 26 58 72 31 10 38 65 66 11 53
+ 9 customers, distance = 101.00, demand = 175 : 67 12 39 9 25 55 18 50 32
+11 customers, distance = 83.00, demand = 218 : 4 45 29 48 5 37 47 21 74 30 75
+
+Optimal value: ............... 682
+Obtained value: .............. 734.00
+Difference in objective: ..... 52.00
+Percentage similarities: ..... 92.92 %
+Iteration until best found: .. 161
+Iteration without improvement: 9
+Total iterations: ............ 170
+Time until best found: ....... 80.03
+Total time elapsed: .......... 83.75
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Statistical report after ..... 11 run
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Initial fitness:           Best fitness:              Time Elapsed:
+2523.00                    701.00                     83.80
+2599.00                    727.00                     81.76
+2464.00                    733.00                     81.11
+2560.00                    804.00                     82.17
+2474.00                    765.00                     81.00
+2557.00                    717.00                     84.81
+2451.00                    751.00                     82.61
+2596.00                    735.00                     82.45
+2472.00                    754.00                     80.46
+2430.00                    774.00                     81.56
+2521.00                    734.00                     83.75
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... M-n101-k10-820
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[10 routes, distance = 994.00]
+10 customers, distance = 105.00, demand = 200 : 55 54 53 56 58 60 59 64 62 65
+ 9 customers, distance = 98.00, demand = 200 : 13 17 18 19 15 16 14 12 9
+ 9 customers, distance = 97.00, demand = 190 : 99 100 97 93 92 94 95 96 98
+10 customers, distance = 71.00, demand = 200 : 43 46 45 44 40 68 61 72 74 63
+11 customers, distance = 108.00, demand = 200 : 5 3 4 6 8 11 30 34 33 32 31
+11 customers, distance = 175.00, demand = 190 : 50 51 48 57 80 73 70 71 82 84 86
+ 2 customers, distance = 22.00, demand = 30 : 21 20
+12 customers, distance = 131.00, demand = 200 : 90 87 78 76 77 79 81 83 85 88 89 91
+11 customers, distance = 72.00, demand = 200 : 75 1 2 7 10 23 26 28 25 24 22
+15 customers, distance = 115.00, demand = 200 : 27 29 36 39 38 37 35 52 49 47 42 41 69 66 67
+
+Optimal value: ............... 820
+Obtained value: .............. 994.00
+Difference in objective: ..... 174.00
+Percentage similarities: ..... 82.49 %
+Iteration until best found: .. 164
+Iteration without improvement: 6
+Total iterations: ............ 170
+Time until best found: ....... 144.23
+Total time elapsed: .......... 147.84
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... M-n101-k10-820
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[10 routes, distance = 1067.00]
+ 9 customers, distance = 97.00, demand = 200 : 13 17 18 19 15 16 14 12 11
+11 customers, distance = 70.00, demand = 170 : 25 27 30 28 26 23 10 8 9 6 4
+11 customers, distance = 172.00, demand = 200 : 77 73 70 71 76 78 82 92 93 94 96
+10 customers, distance = 81.00, demand = 200 : 67 63 87 86 83 84 85 88 89 90
+13 customers, distance = 199.00, demand = 200 : 35 37 38 39 36 31 50 68 64 72 80 79 81
+11 customers, distance = 94.00, demand = 170 : 49 52 51 48 45 44 59 57 42 46 47
+ 9 customers, distance = 104.00, demand = 180 : 43 40 55 54 53 56 58 60 41
+ 9 customers, distance = 83.00, demand = 150 : 5 3 7 65 62 74 61 66 69
+ 9 customers, distance = 93.00, demand = 180 : 91 98 95 97 100 99 2 1 75
+ 8 customers, distance = 74.00, demand = 160 : 21 22 29 32 33 34 24 20
+
+Optimal value: ............... 820
+Obtained value: .............. 1067.00
+Difference in objective: ..... 247.00
+Percentage similarities: ..... 76.85 %
+Iteration until best found: .. 167
+Iteration without improvement: 3
+Total iterations: ............ 170
+Time until best found: ....... 142.44
+Total time elapsed: .......... 143.83
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... M-n101-k10-820
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[10 routes, distance = 959.00]
+ 9 customers, distance = 57.00, demand = 110 : 49 52 50 51 48 45 46 47 43
+10 customers, distance = 105.00, demand = 200 : 10 11 8 6 4 95 94 92 93 97
+ 9 customers, distance = 99.00, demand = 200 : 31 35 37 38 39 36 34 33 32
+12 customers, distance = 75.00, demand = 180 : 67 66 69 41 42 44 40 68 64 61 62 63
+11 customers, distance = 101.00, demand = 190 : 5 1 2 99 100 96 98 85 88 89 90
+ 9 customers, distance = 131.00, demand = 170 : 81 78 76 73 70 71 82 83 84
+ 9 customers, distance = 98.00, demand = 200 : 9 12 14 16 15 19 18 17 13
+11 customers, distance = 51.00, demand = 170 : 21 22 23 26 28 30 29 27 25 24 20
+12 customers, distance = 141.00, demand = 190 : 65 74 72 80 79 77 86 87 91 75 3 7
+ 8 customers, distance = 101.00, demand = 200 : 57 59 60 58 56 53 54 55
+
+Optimal value: ............... 820
+Obtained value: .............. 959.00
+Difference in objective: ..... 139.00
+Percentage similarities: ..... 85.51 %
+Iteration until best found: .. 166
+Iteration without improvement: 4
+Total iterations: ............ 170
+Time until best found: ....... 143.90
+Total time elapsed: .......... 147.22
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... M-n101-k10-820
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[10 routes, distance = 969.00]
+10 customers, distance = 122.00, demand = 180 : 90 87 86 89 88 84 82 76 78 81
+ 9 customers, distance = 98.00, demand = 200 : 9 12 14 16 15 19 18 17 13
+ 8 customers, distance = 101.00, demand = 200 : 59 60 58 56 53 54 55 57
+15 customers, distance = 80.00, demand = 190 : 47 50 51 48 45 44 40 41 68 64 61 72 74 65 67
+10 customers, distance = 94.00, demand = 190 : 91 98 96 95 97 100 99 2 1 75
+11 customers, distance = 69.00, demand = 180 : 20 21 22 25 27 29 30 28 26 7 5
+11 customers, distance = 176.00, demand = 200 : 80 79 77 73 70 71 83 85 94 92 93
+13 customers, distance = 92.00, demand = 180 : 43 42 46 49 52 24 23 10 11 8 6 4 3
+ 9 customers, distance = 97.00, demand = 200 : 34 36 39 38 37 35 31 33 32
+ 4 customers, distance = 40.00, demand = 90 : 69 66 62 63
+
+Optimal value: ............... 820
+Obtained value: .............. 969.00
+Difference in objective: ..... 149.00
+Percentage similarities: ..... 84.62 %
+Iteration until best found: .. 165
+Iteration without improvement: 5
+Total iterations: ............ 170
+Time until best found: ....... 141.82
+Total time elapsed: .......... 144.62
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... M-n101-k10-820
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[10 routes, distance = 1133.00]
+14 customers, distance = 120.00, demand = 200 : 7 3 4 6 8 9 11 10 28 30 36 37 35 31
+11 customers, distance = 136.00, demand = 190 : 67 78 76 73 70 71 82 83 84 85 91
+ 9 customers, distance = 101.00, demand = 180 : 68 55 54 53 56 58 60 59 40
+ 9 customers, distance = 138.00, demand = 200 : 12 14 16 15 19 39 38 34 24
+14 customers, distance = 118.00, demand = 200 : 21 22 26 13 17 18 27 52 50 51 48 45 44 43
+11 customers, distance = 107.00, demand = 200 : 20 25 23 5 1 2 99 100 97 96 98
+11 customers, distance = 155.00, demand = 240 : 63 65 74 72 61 64 57 80 79 77 81
+ 8 customers, distance = 154.00, demand = 200 : 32 33 29 75 94 92 93 95
+ 0 customers, distance = 0.00, demand = 0 :
+13 customers, distance = 104.00, demand = 200 : 49 47 46 42 41 69 66 62 90 89 88 86 87
+
+Optimal value: ............... 820
+Obtained value: .............. 1133.00
+Difference in objective: ..... 313.00
+Percentage similarities: ..... 72.37 %
+Iteration until best found: .. 147
+Iteration without improvement: 23
+Total iterations: ............ 170
+Time until best found: ....... 130.39
+Total time elapsed: .......... 148.51
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... M-n101-k10-820
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[10 routes, distance = 1052.00]
+10 customers, distance = 160.00, demand = 190 : 57 55 68 66 90 89 94 92 93 97
+ 7 customers, distance = 113.00, demand = 160 : 23 26 13 17 18 33 32
+ 9 customers, distance = 101.00, demand = 200 : 12 14 16 15 19 30 28 27 25
+13 customers, distance = 65.00, demand = 160 : 47 49 52 50 51 48 46 45 44 40 41 42 43
+11 customers, distance = 93.00, demand = 190 : 7 6 4 2 99 100 96 95 98 1 5
+12 customers, distance = 129.00, demand = 190 : 67 65 62 80 79 77 73 70 71 76 78 81
+ 9 customers, distance = 153.00, demand = 200 : 54 53 56 58 60 59 82 83 87
+ 6 customers, distance = 52.00, demand = 140 : 69 64 61 72 74 63
+11 customers, distance = 90.00, demand = 180 : 10 11 9 8 3 75 91 88 85 84 86
+12 customers, distance = 96.00, demand = 200 : 21 22 31 35 37 38 39 36 34 29 24 20
+
+Optimal value: ............... 820
+Obtained value: .............. 1052.00
+Difference in objective: ..... 232.00
+Percentage similarities: ..... 77.95 %
+Iteration until best found: .. 153
+Iteration without improvement: 17
+Total iterations: ............ 170
+Time until best found: ....... 127.94
+Total time elapsed: .......... 142.31
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... M-n101-k10-820
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[10 routes, distance = 966.00]
+ 9 customers, distance = 97.00, demand = 190 : 98 96 95 94 92 93 97 100 99
+12 customers, distance = 142.00, demand = 200 : 59 60 58 56 55 68 69 65 87 86 88 91
+ 8 customers, distance = 96.00, demand = 190 : 13 15 12 14 16 19 18 17
+ 9 customers, distance = 82.00, demand = 160 : 20 24 29 32 33 52 49 46 47
+14 customers, distance = 107.00, demand = 200 : 34 36 39 38 37 35 31 50 51 48 45 44 40 41
+12 customers, distance = 60.00, demand = 180 : 75 1 2 4 3 5 7 6 9 8 11 10
+11 customers, distance = 133.00, demand = 190 : 90 89 85 84 83 82 71 70 73 76 78
+ 8 customers, distance = 42.00, demand = 140 : 23 26 28 30 27 25 22 21
+ 8 customers, distance = 54.00, demand = 170 : 67 66 64 61 72 74 62 63
+ 9 customers, distance = 153.00, demand = 190 : 43 42 57 54 53 80 77 79 81
+
+Optimal value: ............... 820
+Obtained value: .............. 966.00
+Difference in objective: ..... 146.00
+Percentage similarities: ..... 84.89 %
+Iteration until best found: .. 156
+Iteration without improvement: 14
+Total iterations: ............ 170
+Time until best found: ....... 133.64
+Total time elapsed: .......... 143.50
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... M-n101-k10-820
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[10 routes, distance = 1035.00]
+10 customers, distance = 93.00, demand = 200 : 3 1 91 89 88 85 84 87 90 63
+ 9 customers, distance = 103.00, demand = 190 : 98 96 95 94 92 93 97 99 100
+ 8 customers, distance = 84.00, demand = 140 : 20 27 29 32 33 35 31 52
+ 9 customers, distance = 151.00, demand = 200 : 67 65 62 74 57 55 80 78 81
+10 customers, distance = 102.00, demand = 200 : 42 44 60 58 56 53 54 59 40 41
+15 customers, distance = 143.00, demand = 190 : 69 66 68 64 61 72 79 77 73 70 71 76 82 83 86
+10 customers, distance = 105.00, demand = 200 : 8 11 17 18 19 16 14 12 2 75
+ 9 customers, distance = 60.00, demand = 140 : 43 47 49 24 25 26 23 22 21
+ 8 customers, distance = 83.00, demand = 150 : 10 13 15 9 6 4 7 5
+12 customers, distance = 111.00, demand = 200 : 28 30 37 38 39 36 34 50 51 48 45 46
+
+Optimal value: ............... 820
+Obtained value: .............. 1035.00
+Difference in objective: ..... 215.00
+Percentage similarities: ..... 79.23 %
+Iteration until best found: .. 169
+Iteration without improvement: 1
+Total iterations: ............ 170
+Time until best found: ....... 140.48
+Total time elapsed: .......... 140.48
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... M-n101-k10-820
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[10 routes, distance = 981.00]
+ 6 customers, distance = 64.00, demand = 120 : 87 86 84 85 88 91
+ 8 customers, distance = 129.00, demand = 180 : 15 19 16 14 12 100 97 99
+ 8 customers, distance = 81.00, demand = 180 : 21 22 25 28 30 18 17 13
+11 customers, distance = 105.00, demand = 200 : 67 65 66 68 59 60 58 56 53 54 69
+11 customers, distance = 97.00, demand = 150 : 20 35 31 49 46 45 44 40 41 42 43
+ 9 customers, distance = 93.00, demand = 190 : 98 95 94 92 93 96 2 1 75
+ 9 customers, distance = 89.00, demand = 190 : 27 29 34 36 39 38 37 33 32
+ 8 customers, distance = 85.00, demand = 200 : 57 55 64 61 72 74 62 63
+17 customers, distance = 100.00, demand = 200 : 7 5 3 4 6 9 8 11 10 23 26 24 52 50 51 48 47
+13 customers, distance = 138.00, demand = 200 : 80 79 77 73 70 71 76 78 81 82 83 89 90
+
+Optimal value: ............... 820
+Obtained value: .............. 981.00
+Difference in objective: ..... 161.00
+Percentage similarities: ..... 83.59 %
+Iteration until best found: .. 162
+Iteration without improvement: 8
+Total iterations: ............ 170
+Time until best found: ....... 138.05
+Total time elapsed: .......... 144.18
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... M-n101-k10-820
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[10 routes, distance = 1015.00]
+ 7 customers, distance = 74.00, demand = 170 : 91 88 85 84 86 87 63
+14 customers, distance = 141.00, demand = 200 : 67 66 64 61 72 80 73 70 71 76 78 77 79 81
+10 customers, distance = 124.00, demand = 190 : 65 62 74 90 89 83 82 95 96 98
+ 8 customers, distance = 104.00, demand = 180 : 43 42 41 54 53 56 58 60
+ 9 customers, distance = 97.00, demand = 190 : 75 1 2 99 100 97 93 92 94
+ 7 customers, distance = 90.00, demand = 170 : 17 15 16 13 11 9 8
+11 customers, distance = 86.00, demand = 160 : 47 46 48 45 44 40 59 57 55 68 69
+13 customers, distance = 149.00, demand = 200 : 10 12 14 19 18 36 39 38 37 35 34 29 27
+12 customers, distance = 90.00, demand = 200 : 20 22 26 28 30 32 33 31 51 50 52 49
+ 9 customers, distance = 60.00, demand = 150 : 21 24 25 23 7 6 4 3 5
+
+Optimal value: ............... 820
+Obtained value: .............. 1015.00
+Difference in objective: ..... 195.00
+Percentage similarities: ..... 80.79 %
+Iteration until best found: .. 155
+Iteration without improvement: 15
+Total iterations: ............ 170
+Time until best found: ....... 126.85
+Total time elapsed: .......... 138.77
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Best result for instance: .... M-n101-k10-820
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[10 routes, distance = 1010.00]
+ 9 customers, distance = 97.00, demand = 190 : 99 100 97 93 92 94 95 96 98
+11 customers, distance = 133.00, demand = 200 : 67 65 74 77 73 70 71 76 78 82 83
+ 7 customers, distance = 81.00, demand = 150 : 63 62 64 68 55 57 40
+ 9 customers, distance = 103.00, demand = 200 : 43 46 45 60 58 56 53 54 59
+12 customers, distance = 69.00, demand = 180 : 20 23 8 9 6 7 3 4 2 1 75 5
+11 customers, distance = 145.00, demand = 200 : 12 14 16 19 36 39 38 37 35 31 24
+ 9 customers, distance = 89.00, demand = 170 : 10 11 13 15 17 18 30 28 26
+16 customers, distance = 149.00, demand = 190 : 47 49 52 50 51 48 44 42 41 69 66 61 72 80 79 81
+ 8 customers, distance = 71.00, demand = 140 : 90 87 86 84 85 88 91 89
+ 8 customers, distance = 73.00, demand = 190 : 21 22 25 27 29 34 33 32
+
+Optimal value: ............... 820
+Obtained value: .............. 1010.00
+Difference in objective: ..... 190.00
+Percentage similarities: ..... 81.19 %
+Iteration until best found: .. 155
+Iteration without improvement: 15
+Total iterations: ............ 170
+Time until best found: ....... 128.64
+Total time elapsed: .......... 139.96
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Hill Climbing
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Termination criteria: ........ 1
+Neighborhood selector: ....... FIRST
+Neighborhood structure: ...... SWAP
+Neighborhood structure: ...... MOVE
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Algorithm Setting: ........... Cuckoo Search
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Population size: ............. 20
+Termination criteria: ........ 170
+Neighborhood selector: ....... BEST
+Neighborhood structure: ...... SWAP
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Statistical report after ..... 11 run
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Initial fitness:           Best fitness:              Time Elapsed:
+2447.00                    994.00                     147.84
+2465.00                    1067.00                    143.83
+2389.00                    959.00                     147.22
+2489.00                    969.00                     144.62
+2432.00                    1133.00                    148.51
+2559.00                    1052.00                    142.30
+2517.00                    966.00                     143.50
+2536.00                    1035.00                    140.48
+2489.00                    981.00                     144.18
+2504.00                    1015.00                    138.77
+2543.00                    1010.00                    139.96
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Press any key to continue . . .
