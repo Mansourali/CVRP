@@ -1,5 +1,0 @@
-A-n33-k5.vrp
-B-n45-k5.vrp
-E-n30-k3.vrp
-E-n76-k7.vrp
-M-n101-k10.vrp

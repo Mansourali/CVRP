@@ -16,7 +16,7 @@
 #include "cuckoosearch_rand.h"
 #include "cuckoosearch_best.h"
 using namespace setting;
-
+  
 int main () {
 
 	Utility u = Utility(); 
